@@ -1,0 +1,7 @@
+{
+  "name": "ionic5basicapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
